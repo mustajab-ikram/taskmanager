@@ -1,34 +1,3 @@
 {
-  "tasks": [
-    {
-      "id": 0,
-      "createdAt": 1632975831673,
-      "title": "Prepare Presentation for Team Meeting",
-      "description": "Create a compelling presentation outlining the project updates and future plans for the team meeting on Friday.",
-      "completed": true
-    },
-    {
-      "id": 1,
-      "createdAt": 1632975833673,
-      "title": "Review and Edit Client Proposal",
-      "description": "Carefully review the client proposal document and make necessary edits for clarity and accuracy.",
-      "completed": false
-    },
-    {
-      "id": 2,
-      "createdAt": 1632975834673,
-      "title": "Research Market Trends",
-      "description": "Conduct in-depth research on current market trends to identify potential opportunities for our products.",
-      "completed": false,
-      "priority": "high"
-    },
-    {
-      "id": 3,
-      "createdAt": 1632975834673,
-      "title": "Update User Documentation",
-      "description": "Ensure that the user documentation is up-to-date with the latest software features and improvements.",
-      "completed": true,
-      "priority": "medium"
-    }
-  ]
+  "tasks": []
 }
